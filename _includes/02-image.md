@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Meme Example](http://res.cloudinary.com/big-cabal/image/upload/w_700,f_auto,fl_lossy,q_auto/v1484916770/sense_jilgk7.png)
