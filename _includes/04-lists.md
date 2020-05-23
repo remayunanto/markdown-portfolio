@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+- Open Github website.
+- Take a training course.
+  - Commit like hell.
