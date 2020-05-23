@@ -1,0 +1,3 @@
+- Open Github website.
+- Take a training course.
+  - Commit like hell.
